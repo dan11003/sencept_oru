@@ -1,0 +1,1 @@
+rosrun sencept_husky bag_writer --files 2021-04-22-13-31-04_0.bag 2021-04-22-13-32-04_1.bag 2021-04-22-13-33-04_2.bag 2021-04-22-13-34-04_3.bag --dir /home/daniel/Documents/rosbag/sencept/run3/ --sencept_bag HighRes_SR_Dense.bag --output_bag converted.bag --sencept_to_oru_offset 270
